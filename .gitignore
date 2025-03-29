@@ -26,7 +26,6 @@ Icon
 *.dvi
 *.xdv
 *-converted-to.*
-*.pdf
 *.ps
 *.eps
 *.tex~
@@ -46,7 +45,6 @@ latex.out/
 *-blx.bib
 *.run.xml
 
-# LaTeX辅助工具生成的文件
 *.loa
 *.spl
 *.nav
@@ -54,7 +52,6 @@ latex.out/
 *.snm
 *.vrb
 
-# 编辑器临时文件
 .vscode/
 .idea/
 *.swp
